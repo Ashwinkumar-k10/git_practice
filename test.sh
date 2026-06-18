@@ -2,4 +2,4 @@
 
 FILES=*.txt
 
-echo $FILES
+echo "$FILES"
