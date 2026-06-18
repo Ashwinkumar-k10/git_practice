@@ -1,5 +1,5 @@
 #!/bin/bash
 
-NAME="Ashwinkumar"
+FILES=*.txt
 
-echo Hello $NAME
+echo $FILES
